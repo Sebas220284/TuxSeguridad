@@ -13,6 +13,10 @@ body{
 
     font-family: 'Poppins', sans-serif;
 }
+.cta{
+  color: #fff;
+ text-decoration: none;
+}
 
 .container{
 
@@ -549,7 +553,7 @@ box-shadow: 0 0 1px rgba(0, 0, 0, .5);
 
 /*family*/
 
-/*.family{
+.family{
 
 background-color: 	#FFF5EEC4;
 
@@ -598,7 +602,7 @@ object-position: 50% 30%;
 
 }
 .family_course{
-background-color: palevioletred;
+background-color: #5E33FF;
 color: #fff;
 display: inline-block;
 padding: 5px;

@@ -1,0 +1,28 @@
+{
+  "name": "tuxseguridad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebas220284/TuxSeguridad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebas220284/TuxSeguridad/issues"
+  },
+  "homepage": "https://github.com/Sebas220284/TuxSeguridad#readme",
+  "dependencies": {
+    "cookie-parse": "^0.4.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
